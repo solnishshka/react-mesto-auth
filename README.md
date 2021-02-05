@@ -1,7 +1,36 @@
-# Здесь будет ваш проект на Реакте с авторизацией и регистрацией
+# Сервис Место
 
-Используйте ваши предыдущие наработки по проекту Mesto. Это может быть работа 11-го спринта или его улучшенная версия после 2-х последних спринтов. 
+Проект о красивых местах России в рамках проектной работы №10 в Яндекс.Практикуме.
 
-Все запросы на авторизацию, регистрацию и проверку токена должны работать через сервис `https://auth.nomoreparties.co`. Остальные запросы, не относящиеся к этой проектной работе могут быть к бэкенду из предыдущих спринтов.
+Превью доступно по ссылке: https://solnishshka.github.io/mesto-react/
 
-Успехов!
+## Технологии, применяемые в проекте
+
+React, принципы ООП, взаимодействие с API. В верстке сайта использовались технологии flexbox и grid-layot.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Инструкции по сборке проекта
+
+### `npm run start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## `npm run deploy` 
+
+Builds the app for production to the `build` folder and publishes it to gh-pages. \
+

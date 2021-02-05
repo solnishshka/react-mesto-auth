@@ -1,0 +1,12 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+    .header__container {
+        width: calc(100% - 60px);
+        margin: 0 auto;
+    }
+}

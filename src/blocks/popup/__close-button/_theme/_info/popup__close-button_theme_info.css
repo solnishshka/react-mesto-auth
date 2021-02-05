@@ -1,0 +1,6 @@
+@media screen and (max-width: 489px) {
+  .popup__close-button_theme_info {
+    right: calc(50% - 21px);
+    top: -60px;
+  }
+}

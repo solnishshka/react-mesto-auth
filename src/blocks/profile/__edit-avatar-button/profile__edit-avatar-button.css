@@ -1,0 +1,11 @@
+.profile__edit-avatar-button {
+    position: absolute;
+    top: 47px;
+    left: 47px;
+    visibility: hidden;
+}
+
+.profile__edit-avatar-button:hover {
+  visibility: visible;
+  cursor: pointer;
+}

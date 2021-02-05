@@ -1,0 +1,18 @@
+.profile__avatar {
+    border-radius: 50%;
+    width: 120px;
+    object-fit: cover;
+    object-position: center;
+    min-height: 120px;
+    max-height: 120px;
+    transition: opacity .5s linear 0s;
+}
+
+.profile__avatar:hover {
+    opacity: 0.2;
+    cursor: pointer;
+}
+
+.profile__avatar:hover + .profile__edit-avatar-button {
+    visibility:  visible;
+}

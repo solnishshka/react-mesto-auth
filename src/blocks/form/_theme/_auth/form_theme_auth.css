@@ -1,0 +1,10 @@
+.form_theme_auth {
+  max-width: 360px;
+  margin: 60px auto 0;
+}
+
+@media screen and (max-width: 499px){
+  .form_theme_auth{
+    max-width: 260px;
+  }
+}

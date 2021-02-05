@@ -1,0 +1,17 @@
+.header__link {
+  margin-top: 51px;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity 1s linear 0s;
+}
+
+.header__link:hover {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 700px) {
+  .header__link {
+    margin-top: 0;
+    align-self: center;
+  }
+}

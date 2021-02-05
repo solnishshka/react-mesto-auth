@@ -1,0 +1,4 @@
+.header__burger-menu_opened{
+    background-image: url(../../../../images/menu-burger-close.svg);
+    height: 24px;
+}

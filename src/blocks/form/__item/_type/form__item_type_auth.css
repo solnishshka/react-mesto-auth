@@ -1,0 +1,11 @@
+.form__item_type_auth {
+  background-color: #000;
+  border-bottom: 2px solid #cccccc;
+  padding-bottom: 13px;
+  padding-top: 30px;
+  color: #cccccc;
+}
+
+.form__item_type_auth::placeholder {
+  color: #cccccc;
+}
